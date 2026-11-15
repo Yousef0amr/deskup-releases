@@ -1,0 +1,1 @@
+{"format":1,"id":"434d87f9-3b53-4af2-862a-b9847d9acd2b","kind":"team","name":"test team","createdAt":1794765920405,"encryption":{"alg":"aes-256-gcm","kdf":"scrypt","N":32768,"r":8,"p":1,"salt":"8LCzsk9fUzhc1LhCHTrgrg==","check":{"iv":"VEVr10CXLWh38AOS","tag":"bPgHuBo8/h17eJ1s3e4lEw==","data":"ibs5pb+GkVyaYmAbC9pH/56+ZgfgrxQb"}}}
