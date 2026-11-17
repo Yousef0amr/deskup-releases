@@ -1,1 +1,1 @@
-# Deskup-Sync
+# deskup-releases
